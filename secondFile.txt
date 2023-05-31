@@ -1,6 +1,6 @@
+Second file. Updated from git_1.
 Second file.
-Second file.
-Second file.
+Second file. Updated from git_1.
 Second file.
 Second file.
 Second file.
