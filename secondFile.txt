@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Second file. Updated from git_1.
 Second file.
 Second file. Updated from git_1.
+=======
+Second file. Updated from git_2.
+Second file.
+Second file. Updated from git_2.
+>>>>>>> git_2
 Second file.
 Second file.
 Second file.
